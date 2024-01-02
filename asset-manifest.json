@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DEV-Deakin/static/css/main.7e5deb73.css",
+    "main.js": "/DEV-Deakin/static/js/main.1ec01a34.js",
+    "static/media/deakin.jpg": "/DEV-Deakin/static/media/deakin.6c5a38120378b8f63feb.jpg",
+    "static/media/user.png": "/DEV-Deakin/static/media/user.ca97dffa3bf757477c78.png",
+    "static/media/logo.png": "/DEV-Deakin/static/media/logo.b1e57e0460e43a9bd6b0.png",
+    "static/media/deakinAvatar.svg": "/DEV-Deakin/static/media/deakinAvatar.8adca4fe85dfe44b4f51b5fb48be510c.svg",
+    "static/media/instagram.svg": "/DEV-Deakin/static/media/instagram.13e6cc7d1037c5d2882e86154e8984a6.svg",
+    "static/media/twitter.svg": "/DEV-Deakin/static/media/twitter.749ac2ab1d9ae5e1b4e99e9d40e46b1b.svg",
+    "static/media/notification.svg": "/DEV-Deakin/static/media/notification.dedc82767cb2415cc557435f2cfe9519.svg",
+    "index.html": "/DEV-Deakin/index.html",
+    "static/media/facebook.svg": "/DEV-Deakin/static/media/facebook.cceca4d8fbb26da0578f1b561b40f295.svg",
+    "static/media/close.svg": "/DEV-Deakin/static/media/close.ba28c4fc52043b18501d3fa80697fa6d.svg",
+    "static/media/menu.svg": "/DEV-Deakin/static/media/menu.cb5ea6fdfe38bf6ffc81b7f0d2945da1.svg",
+    "main.7e5deb73.css.map": "/DEV-Deakin/static/css/main.7e5deb73.css.map",
+    "main.1ec01a34.js.map": "/DEV-Deakin/static/js/main.1ec01a34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e5deb73.css",
+    "static/js/main.1ec01a34.js"
+  ]
+}
